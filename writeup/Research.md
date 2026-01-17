@@ -2,9 +2,11 @@
 
 This is my own research using (mostly) my phone (using NFC Tools). Credits also go to [@anonymos3584](https://github.com/anonymos3584) for helping me with the identification and research deep dive.
 
-## 17.01.2026 - RB Regio (Baden Württemberg)
+## 17.01.2026 - DB Regio RB (Baden Württemberg)
 
 Method: Raw reading
+
+Raw NFC data read from the tag: `2026-01-17-RB.nfc` (file)
 
 Tag location: Toilet lamp on the bottom (marked with an NFC symbol)
 

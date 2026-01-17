@@ -1,0 +1,92 @@
+Filetype: Flipper NFC device
+Version: 4
+# Device type can be ISO14443-3A, ISO14443-3B, ISO14443-4A, ISO14443-4B, ISO15693-3, FeliCa, NTAG/Ultralight, Mifare Classic, Mifare Plus, Mifare DESFire, SLIX, ST25TB, NTAG4xx, Type 4 Tag, EMV
+Device type: NTAG/Ultralight
+# UID is common for all formats
+UID: 04 D8 43 4A 86 52 80
+# ISO14443-3A specific data
+ATQA: 00 44
+SAK: 00
+# NTAG/Ultralight specific data
+Data format version: 2
+NTAG/Ultralight type: NTAG213
+Signature: 17 A7 0C B7 75 77 69 5D BD F3 0A 46 1D 3C F2 49 09 E2 CC 38 B4 95 BB 13 93 BB C2 61 A5 57 80 7D
+Mifare version: 00 04 04 02 01 00 0F 03
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: BD
+Pages total: 45
+Pages read: 45
+Page 0: 04 D8 43 17
+Page 1: 4A 86 52 80
+Page 2: 1E 48 FF 11
+Page 3: E1 10 12 00
+Page 4: 01 03 A0 0C
+Page 5: 34 03 30 D1
+Page 6: 01 2C 54 02
+
+# Text field starts at page 7
+Page 7: 65 6E 44 42
+# "enDB" - DB is the start of the text field
+
+Page 8: 2E 46 5A 2E
+# ".FZ."
+
+Page 9: 31 3B 39 34
+# "1;94"
+
+Page 10: 38 30 30 34
+# "8004"
+
+Page 11: 34 30 30 32
+# "4002"
+
+Page 12: 37 2D 31 3B
+# "7-1;"
+
+Page 13: 39 34 38 30
+# "9480"
+
+Page 14: 30 34 34 31
+# "0441"
+
+Page 15: 30 32 37 2D
+# "027-"
+
+Page 16: 30 3B 57 43
+# "0;WC"
+
+Page 17: 31 3B 23 FE
+# "1;#" - end of text field 0xFE is padding
+
+Page 18: 00 00 00 00
+Page 19: 00 00 00 00
+Page 20: 00 00 00 00
+Page 21: 00 00 00 00
+Page 22: 00 00 00 00
+Page 23: 00 00 00 00
+Page 24: 00 00 00 00
+Page 25: 00 00 00 00
+Page 26: 00 00 00 00
+Page 27: 00 00 00 00
+Page 28: 00 00 00 00
+Page 29: 00 00 00 00
+Page 30: 00 00 00 00
+Page 31: 00 00 00 00
+Page 32: 00 00 00 00
+Page 33: 00 00 00 00
+Page 34: 00 00 00 00
+Page 35: 00 00 00 00
+Page 36: 00 00 00 00
+Page 37: 00 00 00 00
+Page 38: 00 00 00 00
+Page 39: 00 00 00 00
+Page 40: 00 00 00 BD
+Page 41: 04 00 00 FF
+Page 42: 00 05 00 00
+Page 43: FF FF FF FF
+Page 44: 00 00 00 00
+Failed authentication attempts: 0
