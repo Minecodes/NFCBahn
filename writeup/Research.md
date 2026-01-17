@@ -15,7 +15,8 @@ Wagon identifier: `94 80 0441027-0 D-DB`
 
 ### String decoding
 
-`DB.FZ.1;94800440027-1;94800441027-0;WC1;#`
+```
+DB.FZ.1;94800440027-1;94800441027-0;WC1;#
  |  |  |     |               |        |
  |  ?  ?     |               |       Tag location
  |           |               |
@@ -26,3 +27,4 @@ Wagon identifier: `94 80 0441027-0 D-DB`
  |
  |
 Provider
+```
