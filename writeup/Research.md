@@ -20,13 +20,13 @@ Wagon identifier: `94 80 0441027-0 D-DB`
 ```
 DB.FZ.1;94800440027-1;94800441027-0;WC1;#
  |  |  |     |               |        |
- |  ?  ?     |               |       Tag location
- |           |               |
- |           |               |
- |           |            Wagon identifier (94800441027-0)
- |           |
- |       Likely train identifier
- |
- |
+ |  |  |     |               |       Tag location
+ |  |  |     |               |
+ |  |  |     |               |
+ |  |  |     |            Wagon identifier (94800441027-0)
+ |  |  |     |
+ |  |  | Likely train identifier
+ |  | Indentifier version (?)
+ | Likely the shortening of "Fahrzeug" or vehicle in German
 Provider
 ```
